@@ -1,0 +1,6 @@
+//1: npm create vite@lates foldername
+//- install taiwind react vite
+
+//2: CREATE PAGES AND ROUTES
+   -create pages => src-pages
+   - instal react rout dom => npm react-router-dom
