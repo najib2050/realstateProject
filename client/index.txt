@@ -1,0 +1,13 @@
+//1: npm create vite@lates foldername
+//- install taiwind react vite
+
+//2: CREATE PAGES AND ROUTES
+   -create pages => src-pages
+   - instal react rout dom => npm react-router-dom
+
+//3 : CREATE HEADER SECTION
+    -availing al pages compnenet i.e home about in the header also logo comonents
+    - instal react icons => 
+
+
+BACK END 

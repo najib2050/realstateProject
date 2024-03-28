@@ -1,0 +1,5 @@
+crete a folder called api
+in the root folder instal npm package > npm install
+in the root folder install express > npm i express
+
+in order the root folder to work in git have => go to /clieng mv .git ../
